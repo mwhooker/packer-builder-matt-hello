@@ -39,58 +39,64 @@
 			"revisionTime": "2017-11-29T15:08:20Z"
 		},
 		{
-			"checksumSHA1": "yVGIwCT5yKM16yPOJiKil9jOpa4=",
+			"checksumSHA1": "IyJhtbWpETwnoBihceHOPdvpQps=",
 			"path": "github.com/hashicorp/packer/common",
-			"revision": "247119e1c3f6f0b26b22cb8918a1d11b1b0be68e",
-			"revisionTime": "2018-01-23T22:33:40Z"
+			"revision": "7f4112ba229309cfc0ebaa10ded2abdfaf1b22c8",
+			"revisionTime": "2018-01-25T01:28:02Z"
 		},
 		{
 			"checksumSHA1": "SAHzxwv9iIaPZmBGAYfqkw9Vnxc=",
 			"path": "github.com/hashicorp/packer/common/uuid",
-			"revision": "247119e1c3f6f0b26b22cb8918a1d11b1b0be68e",
-			"revisionTime": "2018-01-23T22:33:40Z"
+			"revision": "7f4112ba229309cfc0ebaa10ded2abdfaf1b22c8",
+			"revisionTime": "2018-01-25T01:28:02Z"
 		},
 		{
 			"checksumSHA1": "nQY5hw9x1twPUNeFcJp5cbYNKoo=",
 			"path": "github.com/hashicorp/packer/helper/config",
-			"revision": "247119e1c3f6f0b26b22cb8918a1d11b1b0be68e",
-			"revisionTime": "2018-01-23T22:33:40Z"
+			"revision": "7f4112ba229309cfc0ebaa10ded2abdfaf1b22c8",
+			"revisionTime": "2018-01-25T01:28:02Z"
+		},
+		{
+			"checksumSHA1": "GONWbUkJ7qRgAniMJJrzUhU/jVc=",
+			"path": "github.com/hashicorp/packer/helper/multistep",
+			"revision": "7f4112ba229309cfc0ebaa10ded2abdfaf1b22c8",
+			"revisionTime": "2018-01-25T01:28:02Z"
 		},
 		{
 			"checksumSHA1": "HNXX9/4nueI93vGotc6jmFEo1S0=",
 			"path": "github.com/hashicorp/packer/packer",
-			"revision": "247119e1c3f6f0b26b22cb8918a1d11b1b0be68e",
-			"revisionTime": "2018-01-23T22:33:40Z"
+			"revision": "7f4112ba229309cfc0ebaa10ded2abdfaf1b22c8",
+			"revisionTime": "2018-01-25T01:28:02Z"
 		},
 		{
 			"checksumSHA1": "YMoMB+ZAkXdiQ22nmoodcIJcT3E=",
 			"path": "github.com/hashicorp/packer/packer/plugin",
-			"revision": "247119e1c3f6f0b26b22cb8918a1d11b1b0be68e",
-			"revisionTime": "2018-01-23T22:33:40Z"
+			"revision": "7f4112ba229309cfc0ebaa10ded2abdfaf1b22c8",
+			"revisionTime": "2018-01-25T01:28:02Z"
 		},
 		{
 			"checksumSHA1": "mgXQ3gKA6iyX1POeoHTI645YMWw=",
 			"path": "github.com/hashicorp/packer/packer/rpc",
-			"revision": "247119e1c3f6f0b26b22cb8918a1d11b1b0be68e",
-			"revisionTime": "2018-01-23T22:33:40Z"
+			"revision": "7f4112ba229309cfc0ebaa10ded2abdfaf1b22c8",
+			"revisionTime": "2018-01-25T01:28:02Z"
 		},
 		{
 			"checksumSHA1": "Wwn5AzeAxZHSJYcXzcEb1bpa0UM=",
 			"path": "github.com/hashicorp/packer/template",
-			"revision": "247119e1c3f6f0b26b22cb8918a1d11b1b0be68e",
-			"revisionTime": "2018-01-23T22:33:40Z"
+			"revision": "7f4112ba229309cfc0ebaa10ded2abdfaf1b22c8",
+			"revisionTime": "2018-01-25T01:28:02Z"
 		},
 		{
 			"checksumSHA1": "dph9UUzCDNUQCckqC43Iw/cuvgI=",
 			"path": "github.com/hashicorp/packer/template/interpolate",
-			"revision": "247119e1c3f6f0b26b22cb8918a1d11b1b0be68e",
-			"revisionTime": "2018-01-23T22:33:40Z"
+			"revision": "7f4112ba229309cfc0ebaa10ded2abdfaf1b22c8",
+			"revisionTime": "2018-01-25T01:28:02Z"
 		},
 		{
 			"checksumSHA1": "24Oi+t3Py5eSultV0DVhnF7VwFo=",
 			"path": "github.com/hashicorp/packer/version",
-			"revision": "247119e1c3f6f0b26b22cb8918a1d11b1b0be68e",
-			"revisionTime": "2018-01-23T22:33:40Z"
+			"revision": "7f4112ba229309cfc0ebaa10ded2abdfaf1b22c8",
+			"revisionTime": "2018-01-25T01:28:02Z"
 		},
 		{
 			"checksumSHA1": "vTfeYxi0Z1y176bjQaYh1/FpQ9s=",
@@ -118,17 +124,9 @@
 		},
 		{
 			"checksumSHA1": "1JtAhgmRN0x794LRNhs0DJ5t8io=",
-			"origin": "github.com/mwhooker/packer-builder-matt-hello/vendor/github.com/mitchellh/mapstructure",
 			"path": "github.com/mitchellh/mapstructure",
 			"revision": "b4575eea38cca1123ec2dc90c26529b5c5acfcff",
 			"revisionTime": "2018-01-11T00:07:20Z"
-		},
-		{
-			"checksumSHA1": "5x1RX5m8SCkCRLyLL8wBc0qJpV8=",
-			"origin": "github.com/mwhooker/packer-builder-matt-hello/vendor/github.com/mitchellh/multistep",
-			"path": "github.com/mitchellh/multistep",
-			"revision": "391576a156a54cfbb4cf5d5eda40cf6ffa3e3a4d",
-			"revisionTime": "2017-03-16T18:53:39Z"
 		},
 		{
 			"checksumSHA1": "AMU63CNOg4XmIhVR/S/Xttt1/f0=",
