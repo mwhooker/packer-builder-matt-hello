@@ -1,17 +1,18 @@
 package matt
 
 import (
+	"context"
 	"fmt"
 
+	"github.com/hashicorp/packer/helper/multistep"
 	"github.com/hashicorp/packer/packer"
-	"github.com/mitchellh/multistep"
 )
 
 type stepHello struct {
 	Greeting string
 }
 
-func (s *stepHello) Run(state multistep.StateBag) multistep.StepAction {
+func (s *stepHello) Run(_ context.Context, state multistep.StateBag) multistep.StepAction {
 	ui := state.Get("ui").(packer.Ui)
 	ui.Say(fmt.Sprintf("Hello: %s", s.Greeting))
 
